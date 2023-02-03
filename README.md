@@ -1,6 +1,8 @@
 # LEARNING-REACT_Combining-Components-basic
 
-Example: https://j6oi4n.csb.app/
+**This is my attempt at learning REACT. There are many bugs in these components and they MUST not be copied for use in production.**
+
+Working example on Netify:
 
 ## step-by-step summary of how the two description lists were combined:
 
